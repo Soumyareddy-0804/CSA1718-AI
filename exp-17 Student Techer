@@ -1,0 +1,13 @@
+teacher (ashrit,maths).
+teacher (ram,ai).
+teacher (smith,networks).
+teacher (naveen,english).
+student(abhi,smith,123).
+student(jyothi,bhavs,163).
+student(gargi,smith,123).
+student(bala,naveen,193).
+find_teacher(teacher_name,subject)
+  teacher teacher_name,subject)
+find_student(stu_name,teacher_name,code):-
+   student_name,teacher_name,code).
+
